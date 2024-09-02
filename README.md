@@ -1,7 +1,7 @@
 ![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VLakGxXY3xoBe7Tn4yhk2mhhvZrfWLCV3HpZOvJcdVrXaYUR3pRrpFXb8IEEM_IxCTmQCSCAK2I_QedxEAxR8Y0mV418qCg-CRMctCB93CtJlU9ZpvNLvVEwXKYV0VN7ZOcubBVJeSw/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Md Abdul Hai</h1>
 <h3 align="center">A passionate flutter developer from Bangladesh</h3>
-<img align= "right" alt="Coding" width="400 src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img src="https://miro.medium.com/v2/resize:fit:1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabdulhairubel&label=Profile%20views&color=0e75b6&style=flat" alt="mdabdulhairubel" /> </p>
